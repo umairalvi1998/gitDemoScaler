@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef572696-6ec3-4dea-9a07-561a3aea11b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/C.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/F.txt" beforeDir="false" afterPath="$PROJECT_DIR$/F.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1719125611692</updated>
       <workItem from="1719125612779" duration="3260000" />
+      <workItem from="1719212213575" duration="215000" />
+      <workItem from="1719301048709" duration="4500000" />
     </task>
     <servers />
   </component>
@@ -74,5 +75,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
